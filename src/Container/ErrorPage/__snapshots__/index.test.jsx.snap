@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error Page Components Render Successfully 1`] = `
+<div>
+  <div
+    class="MuiContainer-root MuiContainer-maxWidthXl css-19r6kue-MuiContainer-root"
+  >
+    <br />
+    <br />
+    <br />
+    <div
+      class="number"
+    >
+      Oops
+    </div>
+    <div
+      class="text"
+    >
+      <span>
+        Something Went Wrong!
+      </span>
+      <br />
+      An unknown exception has occurred. Please send the screenshot of this page to your support team.
+    </div>
+  </div>
+</div>
+`;
